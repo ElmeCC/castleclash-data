@@ -1,0 +1,617 @@
+{
+  "ALBUM_1": {
+    "emoji": "🍂",
+    "cards": [
+      {
+        "id": "CARD_1",
+        "star": 1
+      },
+      {
+        "id": "CARD_2",
+        "star": 1
+      },
+      {
+        "id": "CARD_3",
+        "star": 1
+      },
+      {
+        "id": "CARD_4",
+        "star": 1
+      },
+      {
+        "id": "CARD_5",
+        "star": 1
+      },
+      {
+        "id": "CARD_6",
+        "star": 1
+      },
+      {
+        "id": "CARD_7",
+        "star": 1
+      },
+      {
+        "id": "CARD_8",
+        "star": 2
+      },
+      {
+        "id": "CARD_9",
+        "star": 2
+      }
+    ]
+  },
+  "ALBUM_2": {
+    "emoji": "🌾",
+    "cards": [
+      {
+        "id": "CARD_1",
+        "star": 1
+      },
+      {
+        "id": "CARD_2",
+        "star": 1
+      },
+      {
+        "id": "CARD_3",
+        "star": 1
+      },
+      {
+        "id": "CARD_4",
+        "star": 1
+      },
+      {
+        "id": "CARD_5",
+        "star": 1
+      },
+      {
+        "id": "CARD_6",
+        "star": 1
+      },
+      {
+        "id": "CARD_7",
+        "star": 2
+      },
+      {
+        "id": "CARD_8",
+        "star": 2
+      },
+      {
+        "id": "CARD_9",
+        "star": 2
+      }
+    ]
+  },
+  "ALBUM_3": {
+    "emoji": "🧺",
+    "cards": [
+      {
+        "id": "CARD_1",
+        "star": 1
+      },
+      {
+        "id": "CARD_2",
+        "star": 1
+      },
+      {
+        "id": "CARD_3",
+        "star": 1
+      },
+      {
+        "id": "CARD_4",
+        "star": 1
+      },
+      {
+        "id": "CARD_5",
+        "star": 1
+      },
+      {
+        "id": "CARD_6",
+        "star": 2
+      },
+      {
+        "id": "CARD_7",
+        "star": 2
+      },
+      {
+        "id": "CARD_8",
+        "star": 3
+      },
+      {
+        "id": "CARD_9",
+        "star": 3
+      }
+    ]
+  },
+  "ALBUM_4": {
+    "emoji": "🎃",
+    "cards": [
+      {
+        "id": "CARD_1",
+        "star": 1
+      },
+      {
+        "id": "CARD_2",
+        "star": 1
+      },
+      {
+        "id": "CARD_3",
+        "star": 1
+      },
+      {
+        "id": "CARD_4",
+        "star": 1
+      },
+      {
+        "id": "CARD_5",
+        "star": 2
+      },
+      {
+        "id": "CARD_6",
+        "star": 2
+      },
+      {
+        "id": "CARD_7",
+        "star": 2
+      },
+      {
+        "id": "CARD_8",
+        "star": 3
+      },
+      {
+        "id": "CARD_9",
+        "star": 3
+      }
+    ]
+  },
+  "ALBUM_5": {
+    "emoji": "👻",
+    "cards": [
+      {
+        "id": "CARD_1",
+        "star": 1
+      },
+      {
+        "id": "CARD_2",
+        "star": 1
+      },
+      {
+        "id": "CARD_3",
+        "star": 1
+      },
+      {
+        "id": "CARD_4",
+        "star": 1
+      },
+      {
+        "id": "CARD_5",
+        "star": 2
+      },
+      {
+        "id": "CARD_6",
+        "star": 2
+      },
+      {
+        "id": "CARD_7",
+        "star": 2
+      },
+      {
+        "id": "CARD_8",
+        "star": 3
+      },
+      {
+        "id": "CARD_9",
+        "star": 4
+      }
+    ]
+  },
+  "ALBUM_6": {
+    "emoji": "🍬",
+    "cards": [
+      {
+        "id": "CARD_1",
+        "star": 1
+      },
+      {
+        "id": "CARD_2",
+        "star": 1
+      },
+      {
+        "id": "CARD_3",
+        "star": 1
+      },
+      {
+        "id": "CARD_4",
+        "star": 2
+      },
+      {
+        "id": "CARD_5",
+        "star": 2
+      },
+      {
+        "id": "CARD_6",
+        "star": 2
+      },
+      {
+        "id": "CARD_7",
+        "star": 3
+      },
+      {
+        "id": "CARD_8",
+        "star": 3
+      },
+      {
+        "id": "CARD_9",
+        "star": 4
+      }
+    ]
+  },
+  "ALBUM_7": {
+    "emoji": "🍁",
+    "cards": [
+      {
+        "id": "CARD_1",
+        "star": 1
+      },
+      {
+        "id": "CARD_2",
+        "star": 1
+      },
+      {
+        "id": "CARD_3",
+        "star": 1
+      },
+      {
+        "id": "CARD_4",
+        "star": 2
+      },
+      {
+        "id": "CARD_5",
+        "star": 2
+      },
+      {
+        "id": "CARD_6",
+        "star": 2
+      },
+      {
+        "id": "CARD_7",
+        "star": 2
+      },
+      {
+        "id": "CARD_8",
+        "star": 3
+      },
+      {
+        "id": "CARD_9",
+        "star": 4
+      }
+    ]
+  },
+  "ALBUM_8": {
+    "emoji": "🔥",
+    "cards": [
+      {
+        "id": "CARD_1",
+        "star": 1
+      },
+      {
+        "id": "CARD_2",
+        "star": 1
+      },
+      {
+        "id": "CARD_3",
+        "star": 2
+      },
+      {
+        "id": "CARD_4",
+        "star": 2
+      },
+      {
+        "id": "CARD_5",
+        "star": 2
+      },
+      {
+        "id": "CARD_6",
+        "star": 2
+      },
+      {
+        "id": "CARD_7",
+        "star": 3
+      },
+      {
+        "id": "CARD_8",
+        "star": 3
+      },
+      {
+        "id": "CARD_9",
+        "star": 4
+      }
+    ]
+  },
+  "ALBUM_9": {
+    "emoji": "🦃",
+    "cards": [
+      {
+        "id": "CARD_1",
+        "star": 2
+      },
+      {
+        "id": "CARD_2",
+        "star": 2
+      },
+      {
+        "id": "CARD_3",
+        "star": 2
+      },
+      {
+        "id": "CARD_4",
+        "star": 2
+      },
+      {
+        "id": "CARD_5",
+        "star": 2
+      },
+      {
+        "id": "CARD_6",
+        "star": 2
+      },
+      {
+        "id": "CARD_7",
+        "star": 3
+      },
+      {
+        "id": "CARD_8",
+        "star": 3
+      },
+      {
+        "id": "CARD_9",
+        "star": 4
+      }
+    ]
+  },
+  "ALBUM_10": {
+    "emoji": "🏰",
+    "cards": [
+      {
+        "id": "CARD_1",
+        "star": 2
+      },
+      {
+        "id": "CARD_2",
+        "star": 2
+      },
+      {
+        "id": "CARD_3",
+        "star": 2
+      },
+      {
+        "id": "CARD_4",
+        "star": 2
+      },
+      {
+        "id": "CARD_5",
+        "star": 2
+      },
+      {
+        "id": "CARD_6",
+        "star": 3
+      },
+      {
+        "id": "CARD_7",
+        "star": 3
+      },
+      {
+        "id": "CARD_8",
+        "star": 3
+      },
+      {
+        "id": "CARD_9",
+        "star": 5
+      }
+    ]
+  },
+  "ALBUM_11": {
+    "emoji": "❄️",
+    "cards": [
+      {
+        "id": "CARD_1",
+        "star": 2
+      },
+      {
+        "id": "CARD_2",
+        "star": 2
+      },
+      {
+        "id": "CARD_3",
+        "star": 2
+      },
+      {
+        "id": "CARD_4",
+        "star": 2
+      },
+      {
+        "id": "CARD_5",
+        "star": 3
+      },
+      {
+        "id": "CARD_6",
+        "star": 3
+      },
+      {
+        "id": "CARD_7",
+        "star": 3
+      },
+      {
+        "id": "CARD_8",
+        "star": 5
+      },
+      {
+        "id": "CARD_9",
+        "star": 5
+      }
+    ]
+  },
+  "ALBUM_12": {
+    "emoji": "🌨️",
+    "cards": [
+      {
+        "id": "CARD_1",
+        "star": 2
+      },
+      {
+        "id": "CARD_2",
+        "star": 2
+      },
+      {
+        "id": "CARD_3",
+        "star": 2
+      },
+      {
+        "id": "CARD_4",
+        "star": 2
+      },
+      {
+        "id": "CARD_5",
+        "star": 3
+      },
+      {
+        "id": "CARD_6",
+        "star": 3
+      },
+      {
+        "id": "CARD_7",
+        "star": 5
+      },
+      {
+        "id": "CARD_8",
+        "star": 5
+      },
+      {
+        "id": "CARD_9",
+        "star": 5
+      }
+    ]
+  },
+  "ALBUM_13": {
+    "emoji": "⛸️",
+    "cards": [
+      {
+        "id": "CARD_1",
+        "star": 3
+      },
+      {
+        "id": "CARD_2",
+        "star": 3
+      },
+      {
+        "id": "CARD_3",
+        "star": 3
+      },
+      {
+        "id": "CARD_4",
+        "star": 3
+      },
+      {
+        "id": "CARD_5",
+        "star": 3
+      },
+      {
+        "id": "CARD_6",
+        "star": 3
+      },
+      {
+        "id": "CARD_7",
+        "star": 5
+      },
+      {
+        "id": "CARD_8",
+        "star": 5
+      },
+      {
+        "id": "CARD_9",
+        "star": 5
+      }
+    ]
+  },
+  "ALBUM_14": {
+    "emoji": "🎁",
+    "cards": [
+      {
+        "id": "CARD_1",
+        "star": 3
+      },
+      {
+        "id": "CARD_2",
+        "star": 3
+      },
+      {
+        "id": "CARD_3",
+        "star": 4
+      },
+      {
+        "id": "CARD_4",
+        "star": 4
+      },
+      {
+        "id": "CARD_5",
+        "star": 4
+      },
+      {
+        "id": "CARD_6",
+        "star": 5
+      },
+      {
+        "id": "CARD_7",
+        "star": 5
+      },
+      {
+        "id": "CARD_8",
+        "star": 5
+      },
+      {
+        "id": "CARD_9",
+        "star": 5
+      }
+    ]
+  },
+  "ALBUM_15": {
+    "emoji": "✨",
+    "cards": [
+      {
+        "id": "CARD_1",
+        "star": 3
+      },
+      {
+        "id": "CARD_2",
+        "star": 4
+      },
+      {
+        "id": "CARD_3",
+        "star": 4
+      },
+      {
+        "id": "CARD_4",
+        "star": 4
+      },
+      {
+        "id": "CARD_5",
+        "star": 4
+      },
+      {
+        "id": "CARD_6",
+        "star": 5
+      },
+      {
+        "id": "CARD_7",
+        "star": 5
+      },
+      {
+        "id": "CARD_8",
+        "star": 5
+      },
+      {
+        "id": "CARD_9",
+        "star": 5
+      }
+    ]
+  }
+}
