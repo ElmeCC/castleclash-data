@@ -1,0 +1,183 @@
+{
+    "Abundant Resources":
+    [
+        {"name": "Gold", "star": 1},
+        {"name": "Elixir", "star": 1},
+        {"name": "Honor Badge", "star": 1},
+        {"name": "Shards", "star": 1},
+        {"name": "Red cristals", "star": 1},
+        {"name": "Blue cristals", "star": 1},
+        {"name": "Prestige", "star": 1},
+        {"name": "Treasure", "star": 2},
+        {"name": "Card 9", "star": 2}
+    ],
+    "Attack Buildings":
+    [
+        {"name": "Army camp", "star": 1},
+        {"name": "Heroes Alta", "star": 1},
+        {"name": "Hero base", "star": 1},
+        {"name": "Pet Plaza", "star": 1},
+        {"name": "Relic hall", "star": 1},
+        {"name": "Colosseum", "star": 1},
+        {"name": "Card 8", "star": 2},
+        {"name": "Armory", "star": 2},
+        {"name": "Wardens Watch", "star": 2}
+    ],
+    "Defense Buildings":
+    [
+        {"name": "Town hall", "star": 1},
+        {"name": "Watch tower", "star": 1},
+        {"name": "Wall", "star": 1},
+        {"name": "Bomb trap", "star": 1},
+        {"name": "Hero trap", "star": 1},
+        {"name": "Card 6", "star": 2},
+        {"name": "Card 7", "star": 2},
+        {"name": "Card 8", "star": 3},
+        {"name": "Cannon Tower", "star": 3}
+
+    ],
+    "Decorative Landscapes":
+    [
+        {"name": "Vlad Dracula", "star": 1},
+        {"name": "Cupid", "star": 1},
+        {"name": "Centaur chieftain", "star": 1},
+        {"name": "Frost Witch", "star": 1},
+        {"name": "Thunder god", "star": 2},
+        {"name": "Ninja", "star": 2},
+        {"name": "Card 7", "star": 2},
+        {"name": "Water Priest", "star": 3},
+        {"name": "Valiant Saintess", "star": 3}
+    ],
+    "Ever changing Scenes":
+    [
+        {"name": "Verdant Zone", "star": 1},
+        {"name": "Snowy Canyon", "star": 1},
+        {"name": "Nethworld", "star": 1},
+        {"name": "Undersea", "star": 1},
+        {"name": "Fun Fair", "star": 2},
+        {"name": "Autumn Harvest", "star": 2},
+        {"name": "Romantic Manor", "star": 2},
+        {"name": "Frosty World", "star":3},
+        {"name": "Cosmic Temple", "star":4}
+    ],
+    "Competitive Battlefields":
+    [
+        {"name": "Raid", "star": 1},
+        {"name": "Dungeons", "star": 1},
+        {"name": "Here Be Monsters!", "star": 1},
+        {"name": "Heroes Trial", "star": 2},
+        {"name": "Team Dungeons", "star": 2},
+        {"name": "Team defense", "star": 2},
+        {"name": "Card 7", "star": 3},
+        {"name": "Card 8", "star": 3},
+        {"name": "Blitz", "star": 4}
+    ],
+    "Heroes Assemble I":
+    [
+        {"name": "Paladin", "star": 1},
+        {"name": "Succubus", "star": 1},
+        {"name": "Thunder god", "star": 1},
+        {"name": "Druid", "star": 2},
+        {"name": "Champion", "star": 2},
+        {"name": "Ninja", "star": 2},
+        {"name": "Sprite Mage", "star": 2},
+        {"name": "Minotaur Chieftain", "star": 3},
+        {"name": "Pumpkin Dude", "star": 4}
+    ],
+    "Heroes Assemble II":
+    [
+        {"name": "Grizzly Reaper", "star": 1},
+        {"name": "Atlanticore", "star": 1},
+        {"name": "Snowzilla", "star": 2},
+        {"name": "Cupid", "star": 2},
+        {"name": "Immortep", "star": 2},
+        {"name": "Moltanica", "star": 2},
+        {"name": "Aries", "star": 3},
+        {"name": "Vlad Dracula", "star": 3},
+        {"name": "Death knight", "star": 4}
+    ],
+    "Classic Talents":
+    [
+        {"name": "Revive", "star": 2},
+        {"name": "Heavy Blow", "star": 2},
+        {"name": "Revitalize", "star": 2},
+        {"name": "Sorch", "star": 2},
+        {"name": "Self destruct", "star": 3},
+        {"name": "Deadly strike", "star": 3},
+        {"name": "Flame guard", "star": 3},
+        {"name": "Blade shell", "star": 3},
+        {"name": "Scatter", "star": 4}
+    ],
+    "Troop Formations":
+    [
+        {"name": "Guardian", "star": 2},
+        {"name": "Hunter", "star": 2},
+        {"name": "Pyromancer", "star": 2},
+        {"name": "Treant", "star": 2},
+        {"name": "Hammer Dwarf", "star": 2},
+        {"name": "Centaur", "star": 3},
+        {"name": "Griffin", "star": 3},
+        {"name": "Mecha Man", "star": 4},
+        {"name": "Ornithopter", "star": 5}
+    ],
+    "Original Companions":
+    [
+        {"name": "Drako", "star": 3},
+        {"name": "Finix", "star": 3},
+        {"name": "Aviar", "star": 3},
+        {"name": "Mini Ange", "star": 3},
+        {"name": "Doom Baloon", "star": 4},
+        {"name": "Yulephant", "star": 4},
+        {"name": "Celestin", "star": 4},
+        {"name": "Little Havoc", "star": 5},
+        {"name": "Bubblow", "star": 5}
+    ],
+    "Classic Super Pets I":
+    [
+        {"name": "Dire Wolfing", "star": 3},
+        {"name": "Radiant Hawk", "star": 3},
+        {"name": "Sage Lioness", "star": 3},
+        {"name": "Brave Croc", "star": 4},
+        {"name": "Cold Drake", "star": 4},
+        {"name": "Bellicose Bull", "star": 4},
+        {"name": "Cute Kitsune", "star": 5},
+        {"name": "Sullen Serpent", "star": 5},
+        {"name": "Frost Titan", "star": 5}
+    ],
+    "Classic Super Pets II":
+    [
+        {"name": "Spooky ferrymlan", "star": 3},
+        {"name": "Octopus", "star": 3},
+        {"name": "Caustic Cobra", "star": 3},
+        {"name": "Snow scorpio", "star": 4},
+        {"name": "Time Controller", "star": 4},
+        {"name": "Candle Ghoul", "star": 4},
+        {"name": "Marine Mermaid", "star": 5},
+        {"name": "Battle Monkey", "star": 5},
+        {"name": "Jolly Bunny", "star": 5}
+    ],
+    "Mutant Super Pets I":
+    [
+        {"name": "Dire Wolfing", "star": 3},
+        {"name": "Radiant Hawk", "star": 3},
+        {"name": "Sage Lioness", "star": 4},
+        {"name": "Brave Croc", "star": 4},
+        {"name": "Cold Drake", "star": 4},
+        {"name": "Bellicose Bull", "star": 5},
+        {"name": "Cute Kitsune", "star": 5},
+        {"name": "Sullen Serpent", "star": 5},
+        {"name": "Frost Titan", "star": 5}
+    ],
+    "Mutant Super Pets II":
+    [
+        {"name": "Spooky ferrymlan", "star": 3},
+        {"name": "Octopus", "star": 4},
+        {"name": "Caustic Cobra", "star": 4},
+        {"name": "Snow scorpio", "star": 4},
+        {"name": "Time Controller", "star": 4},
+        {"name": "Candle Ghoul", "star": 5},
+        {"name": "Marine Mermaid", "star": 5},
+        {"name": "Battle Monkey", "star": 5},
+        {"name": "Jolly Bunny", "star": 5}
+    ]
+}
