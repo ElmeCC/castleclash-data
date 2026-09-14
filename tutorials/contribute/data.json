@@ -1,0 +1,81 @@
+{
+  "title": "Contribute a Tutorial",
+  "blocks": [
+    {
+      "type": "text",
+      "text": "Album Trader's tutorials, album names, and other game data aren't written by one person locked in a basement — they're kept up to date by players like you. You don't need to know how to code. You don't even need to know what GitHub is. This guide walks through every click, starting from zero."
+    },
+    {
+      "type": "heading",
+      "text": "What is GitHub, in one sentence"
+    },
+    {
+      "type": "text",
+      "text": "GitHub is the website where Album Trader's data (album names, card names, tutorials like this one) is stored. To suggest a new tutorial or a correction, you open something called an \"issue\" — think of it as a suggestion box with your message in it. Someone from the community (often Elmedia) reads it and adds it to the app."
+    },
+    {
+      "type": "heading",
+      "text": "1. Create a free GitHub account (skip if you already have one)"
+    },
+    {
+      "type": "text",
+      "text": "Go to github.com/join in your browser. Enter an email, a password, and pick a username — anything works, it doesn't need to match your in-game name. Confirm your email if asked. That's it, no payment info needed, GitHub is free."
+    },
+    {
+      "type": "heading",
+      "text": "2. Go to the data repository"
+    },
+    {
+      "type": "text",
+      "text": "Open github.com/ElmeCC/castleclash-data in your browser. This is the public page where all of Album Trader's game data lives."
+    },
+    {
+      "type": "heading",
+      "text": "3. Open the \"Issues\" tab"
+    },
+    {
+      "type": "text",
+      "text": "Near the top of the page, under the repository name, you'll see a row of tabs: Code, Issues, Pull requests, and a few more. Click \"Issues\"."
+    },
+    {
+      "type": "heading",
+      "text": "4. Click \"New issue\""
+    },
+    {
+      "type": "text",
+      "text": "On the Issues page, click the green \"New issue\" button, usually near the top-right of the list. This opens a form with a Title box and a bigger text box underneath."
+    },
+    {
+      "type": "heading",
+      "text": "5. Write your suggestion"
+    },
+    {
+      "type": "text",
+      "text": "In the Title, write something short and clear, e.g. \"New tutorial idea: how to read hero priority graph\" or \"Correction: card X is actually named Y\". In the big text box below, explain your idea in as much detail as you can — what the tutorial should cover, or what's wrong and what it should say instead. Screenshots help a lot: you can drag an image straight into the text box and GitHub will attach it automatically."
+    },
+    {
+      "type": "heading",
+      "text": "6. Submit"
+    },
+    {
+      "type": "text",
+      "text": "Click the green \"Submit new issue\" button at the bottom. Done — your suggestion is now public and someone from the community will pick it up. You'll get a notification (check your email or GitHub) if someone replies or has a question."
+    },
+    {
+      "type": "heading",
+      "text": "Feeling comfortable with GitHub already?"
+    },
+    {
+      "type": "text",
+      "text": "If you're the type who's used git before, you don't have to go through an issue at all — fork the repository, add or edit a tutorial folder directly (see tutorials/README.md in the repo for the exact file format), and open a pull request. Totally optional, the issue route above works just as well."
+    },
+    {
+      "type": "heading",
+      "text": "Too complicated? Just ask"
+    },
+    {
+      "type": "text",
+      "text": "If GitHub feels like too much and you'd rather just tell someone your idea, message @Elmedia 🍑 in-game directly. Describe your tutorial idea or correction, and it'll get added on your behalf — no account, no forms, no problem."
+    }
+  ]
+}

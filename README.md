@@ -25,6 +25,9 @@ album/
 atkspeed/
   buffs.json                — every ATK Speed talent/insignia/pet/etc. level→% table
   images/                   — buff & pet icons referenced by buffs.json / the app
+tutorials/
+  index.json                — ordered list of tutorials shown on the Tutorials tab
+  <tutorial-id>/            — one folder per tutorial: data.json + its own images
 ```
 
 ### `album/album_data.json`
@@ -85,6 +88,12 @@ relative to `atkspeed/`.
 
 PNG/JPEG icons, referenced by `buffs.json` (`icon` field) or directly by the app. Keep
 filenames stable when possible — renaming means also updating `buffs.json` and the app.
+
+### `tutorials/`
+
+Community-written guides for the app's Tutorials tab — one folder per tutorial, each with a
+`data.json` (title + content blocks) and its own images. See
+[`tutorials/README.md`](tutorials/README.md) for the full format and how to add a new one.
 
 ## What does NOT belong here
 
