@@ -1,5 +1,10 @@
 [
   {
+    "id": "contribute",
+    "title": "Contribute a Tutorial",
+    "icon": "🍑"
+  },
+  {
     "id": "getting-started",
     "title": "Getting Started",
     "icon": "📖"
