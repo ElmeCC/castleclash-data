@@ -1,0 +1,33 @@
+{
+  "title": "Getting Started",
+  "blocks": [
+    {
+      "type": "text",
+      "text": "Welcome to Album Trader! This guide walks you through the basics: tracking your collection, finding trades, and using the community tab."
+    },
+    {
+      "type": "heading",
+      "text": "1. Set up your collection"
+    },
+    {
+      "type": "text",
+      "text": "Open the Collection tab and tap each card you already own. Your progress bar fills in as you go — no need to save, it's automatic."
+    },
+    {
+      "type": "heading",
+      "text": "2. Find people to trade with"
+    },
+    {
+      "type": "text",
+      "text": "The Community tab shows other players and highlights cards you can trade with them: what they can give you, and what you can give them."
+    },
+    {
+      "type": "heading",
+      "text": "3. Propose and complete a trade"
+    },
+    {
+      "type": "text",
+      "text": "Send a trade request from the Community tab, wait for the other player to accept, then mark it done once you've exchanged in-game. Your collections update automatically."
+    }
+  ]
+}
