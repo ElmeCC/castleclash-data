@@ -1,0 +1,212 @@
+{
+  "ALBUM_1": {
+    "name": "An Autumn Adventure",
+    "cards": {
+      "CARD_1": "Letter from the Autumn Wind",
+      "CARD_2": "Golden Morning Light",
+      "CARD_3": "Leaf-Strewn Path",
+      "CARD_4": "Travel Backpack",
+      "CARD_5": "Cozy Shawl",
+      "CARD_6": "Chestnut Boots",
+      "CARD_7": "Misty Morning Meadow",
+      "CARD_8": "Distant Carriage",
+      "CARD_9": "Autumn Invitation"
+    }
+  },
+  "ALBUM_2": {
+    "name": "Golden Estate",
+    "cards": {
+      "CARD_1": "Wheatfield Glow",
+      "CARD_2": "Mr. Scarecrow",
+      "CARD_3": "Barn Wood Door",
+      "CARD_4": "Pumpkin Basket",
+      "CARD_5": "Apple Crate",
+      "CARD_6": "Grape Trellis",
+      "CARD_7": "Turning Windmill",
+      "CARD_8": "Estate Path",
+      "CARD_9": "Harvest Balcony"
+    }
+  },
+  "ALBUM_3": {
+    "name": "Harvest Market",
+    "cards": {
+      "CARD_1": "Bustling Stall",
+      "CARD_2": "Honey Jar",
+      "CARD_3": "Roasted Corn",
+      "CARD_4": "Jam Jar",
+      "CARD_5": "Spice Pouch",
+      "CARD_6": "Sweet Apple",
+      "CARD_7": "Handmade Bouquet",
+      "CARD_8": "Bronze Bell Sign",
+      "CARD_9": "Market Haul"
+    }
+  },
+  "ALBUM_4": {
+    "name": "Pumpkin Party",
+    "cards": {
+      "CARD_1": "Round Pumpkin",
+      "CARD_2": "Jack-o'-Lantern",
+      "CARD_3": "Creamy Pumpkin Soup",
+      "CARD_4": "Pumpkin Carriage",
+      "CARD_5": "Orange Bunting",
+      "CARD_6": "Frosted Cupcake",
+      "CARD_7": "Party Invitation",
+      "CARD_8": "Pumpkin Headpiece",
+      "CARD_9": "Golden Orange Ball"
+    }
+  },
+  "ALBUM_5": {
+    "name": "Magical Halloween Night",
+    "cards": {
+      "CARD_1": "Witch Hat",
+      "CARD_2": "Magic Broom",
+      "CARD_3": "Black Cat Pawprints",
+      "CARD_4": "Castle Under the Moon",
+      "CARD_5": "Ghost Candy",
+      "CARD_6": "Bat Silhouette",
+      "CARD_7": "Mysterious Potion",
+      "CARD_8": "Candlelight",
+      "CARD_9": "Midnight Spell"
+    }
+  },
+  "ALBUM_6": {
+    "name": "Candy Adventure",
+    "cards": {
+      "CARD_1": "Rainbow Candy Jar",
+      "CARD_2": "Chocolate Coins",
+      "CARD_3": "Candy Cane Gummy",
+      "CARD_4": "Caramel Apple",
+      "CARD_5": "Candy Paper Bag",
+      "CARD_6": "Sandwich Cookie",
+      "CARD_7": "Sweet Doorbell",
+      "CARD_8": "Candy Map",
+      "CARD_9": "Bag of Surprises"
+    }
+  },
+  "ALBUM_7": {
+    "name": "Maple Forest Stroll",
+    "cards": {
+      "CARD_1": "Red Maple Bookmark",
+      "CARD_2": "Maple Leaf Rain",
+      "CARD_3": "Forest Bench",
+      "CARD_4": "Pinecone Necklace",
+      "CARD_5": "Deer in the Shadows",
+      "CARD_6": "Sunset Silhouette",
+      "CARD_7": "Mushroom Signpost",
+      "CARD_8": "Twilight Path",
+      "CARD_9": "Maple Forest Snapshot"
+    }
+  },
+  "ALBUM_8": {
+    "name": "Fireside Cottage",
+    "cards": {
+      "CARD_1": "Dancing Flame",
+      "CARD_2": "Plush Blanket",
+      "CARD_3": "Hot Cocoa Mug",
+      "CARD_4": "Cinnamon Scent",
+      "CARD_5": "Fireside Story",
+      "CARD_6": "Warm Desk Lamp",
+      "CARD_7": "Roasted Chestnuts",
+      "CARD_8": "Plaid Cushion",
+      "CARD_9": "Goodnight Cottage"
+    }
+  },
+  "ALBUM_9": {
+    "name": "Thanksgiving Feast",
+    "cards": {
+      "CARD_1": "Long-Table Candlestick",
+      "CARD_2": "Roast Turkey",
+      "CARD_3": "Cranberry Sauce",
+      "CARD_4": "Mashed Potato Bowl",
+      "CARD_5": "Corn Garland",
+      "CARD_6": "Thank-You Card",
+      "CARD_7": "Hearty Dinner Plate",
+      "CARD_8": "Toast of Blessings",
+      "CARD_9": "Reunion Moment"
+    }
+  },
+  "ALBUM_10": {
+    "name": "Autumn Outing in the Royal City",
+    "cards": {
+      "CARD_1": "City Gate Bunting",
+      "CARD_2": "Royal Carriage",
+      "CARD_3": "Fallen Leaves by the Fountain",
+      "CARD_4": "Plaza Band",
+      "CARD_5": "Autumn Outing Map",
+      "CARD_6": "City Wall View",
+      "CARD_7": "Garden Corridor",
+      "CARD_8": "Palace Pastries",
+      "CARD_9": "Royal City Souvenir"
+    }
+  },
+  "ALBUM_11": {
+    "name": "Early Winter Arrives",
+    "cards": {
+      "CARD_1": "First Cold Breeze",
+      "CARD_2": "Snowy Rooftop",
+      "CARD_3": "Thick Scarf",
+      "CARD_4": "Cotton Gloves",
+      "CARD_5": "Frosty Window Patterns",
+      "CARD_6": "Hand-Warming Teacup",
+      "CARD_7": "Early Winter Morning",
+      "CARD_8": "Gray-Blue Sky",
+      "CARD_9": "Early Winter Greetings"
+    }
+  },
+  "ALBUM_12": {
+    "name": "The First Snowfall",
+    "cards": {
+      "CARD_1": "First Snowflake",
+      "CARD_2": "Snow on Your Shoulders",
+      "CARD_3": "White Eaves",
+      "CARD_4": "Footprints in the Snow",
+      "CARD_5": "Frosted Mailbox",
+      "CARD_6": "Little Snow Shovel",
+      "CARD_7": "Snowman Button",
+      "CARD_8": "Quiet Street Corner",
+      "CARD_9": "Silver-White World"
+    }
+  },
+  "ALBUM_13": {
+    "name": "Ice Lake Wonderland",
+    "cards": {
+      "CARD_1": "Reflection on the Ice",
+      "CARD_2": "Ice Skates",
+      "CARD_3": "Lakeside Wooden Bridge",
+      "CARD_4": "Blue Ice Crystal",
+      "CARD_5": "Ice-Fishing Bucket",
+      "CARD_6": "Snowy Fence",
+      "CARD_7": "Spin on the Ice",
+      "CARD_8": "Hot Tea Kiosk",
+      "CARD_9": "Laughter on the Ice Lake"
+    }
+  },
+  "ALBUM_14": {
+    "name": "Winter Workshop",
+    "cards": {
+      "CARD_1": "Wooden Toy",
+      "CARD_2": "Colored Paper Scroll",
+      "CARD_3": "Ribbon Bow",
+      "CARD_4": "Bell Ornament",
+      "CARD_5": "Handmade Candle",
+      "CARD_6": "Paper Snowflake",
+      "CARD_7": "Gift List",
+      "CARD_8": "Workshop Lights",
+      "CARD_9": "Mysterious Gift Box"
+    }
+  },
+  "ALBUM_15": {
+    "name": "Prelude to the Starlight Festival",
+    "cards": {
+      "CARD_1": "Star String Lights",
+      "CARD_2": "Fir Wreath",
+      "CARD_3": "Golden Bell",
+      "CARD_4": "Red Velvet Stocking",
+      "CARD_5": "Wishing Candle",
+      "CARD_6": "Snowy Night Bells",
+      "CARD_7": "Holiday Display Window",
+      "CARD_8": "Winter Night Fireworks",
+      "CARD_9": "Starlight Prelude"
+    }
+  }
+}

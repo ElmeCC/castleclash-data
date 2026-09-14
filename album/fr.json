@@ -1,0 +1,212 @@
+{
+  "ALBUM_1": {
+    "name": "Une aventure d'automne",
+    "cards": {
+      "CARD_1": "Lettre du vent d'automne",
+      "CARD_2": "Lumière dorée du matin",
+      "CARD_3": "Chemin jonché de feuilles",
+      "CARD_4": "Sac à dos de voyage",
+      "CARD_5": "Châle douillet",
+      "CARD_6": "Bottes châtaigne",
+      "CARD_7": "Prairie du matin brumeux",
+      "CARD_8": "Transport longue distance",
+      "CARD_9": "Invitation d'automne"
+    }
+  },
+  "ALBUM_2": {
+    "name": "Domaine doré",
+    "cards": {
+      "CARD_1": "Lueur des champs de blé",
+      "CARD_2": "Monsieur Épouvantail",
+      "CARD_3": "Porte en bois de grange",
+      "CARD_4": "Panier de citrouilles",
+      "CARD_5": "Caisse de pommes",
+      "CARD_6": "Treillis de vigne",
+      "CARD_7": "Moulin à vent tournant",
+      "CARD_8": "Chemin du domaine",
+      "CARD_9": "Balcon de la récolte"
+    }
+  },
+  "ALBUM_3": {
+    "name": "Marché des récoltes",
+    "cards": {
+      "CARD_1": "Étal animé",
+      "CARD_2": "Pot de miel",
+      "CARD_3": "Maïs grillé",
+      "CARD_4": "Pot de confiture",
+      "CARD_5": "Sachet d'épices",
+      "CARD_6": "Pomme douce",
+      "CARD_7": "Bouquet fait main",
+      "CARD_8": "Panneau de cloche en bronze",
+      "CARD_9": "Récolte du marché"
+    }
+  },
+  "ALBUM_4": {
+    "name": "Fête de la citrouille",
+    "cards": {
+      "CARD_1": "Citrouille ronde",
+      "CARD_2": "Citrouille-lanterne",
+      "CARD_3": "Soupe crémeuse au potiron",
+      "CARD_4": "Carrosse citrouille",
+      "CARD_5": "Guirlande orange",
+      "CARD_6": "Cupcake givré",
+      "CARD_7": "Invitation à la fête",
+      "CARD_8": "Coiffe citrouille",
+      "CARD_9": "Boule orange dorée"
+    }
+  },
+  "ALBUM_5": {
+    "name": "Nuit magique d'Halloween",
+    "cards": {
+      "CARD_1": "Chapeau de sorcière",
+      "CARD_2": "Balai magique",
+      "CARD_3": "Empreintes de pattes de chat noir",
+      "CARD_4": "Château sous la Lune",
+      "CARD_5": "Bonbon fantôme",
+      "CARD_6": "Silhouette de chauve-souris",
+      "CARD_7": "Potion mystérieuse",
+      "CARD_8": "Lumière des bougies",
+      "CARD_9": "Sort de minuit"
+    }
+  },
+  "ALBUM_6": {
+    "name": "Aventure sucrée",
+    "cards": {
+      "CARD_1": "Bocal à bonbons arc-en-ciel",
+      "CARD_2": "Pièces en chocolat",
+      "CARD_3": "Canne en sucre d'orge",
+      "CARD_4": "Pomme au caramel",
+      "CARD_5": "Sac en papier à bonbons",
+      "CARD_6": "Cookie sandwich",
+      "CARD_7": "Sonnette douce",
+      "CARD_8": "Carte des bonbons",
+      "CARD_9": "Sac de surprises"
+    }
+  },
+  "ALBUM_7": {
+    "name": "Promenade dans la forêt d'érables",
+    "cards": {
+      "CARD_1": "Marque-page érable rouge",
+      "CARD_2": "Pluie de feuilles d'érable",
+      "CARD_3": "Banc de forêt",
+      "CARD_4": "Collier pomme de pin",
+      "CARD_5": "Cerf dans l'ombre",
+      "CARD_6": "Silhouette du coucher de soleil",
+      "CARD_7": "Panneau de champignon",
+      "CARD_8": "Chemin du crépuscule",
+      "CARD_9": "Cliché de la forêt d'érables"
+    }
+  },
+  "ALBUM_8": {
+    "name": "Chalet au coin du feu",
+    "cards": {
+      "CARD_1": "Flamme dansante",
+      "CARD_2": "Couverture en peluche",
+      "CARD_3": "Mug de chocolat chaud",
+      "CARD_4": "Parfum de cannelle",
+      "CARD_5": "Histoire au coin du feu",
+      "CARD_6": "Lampe de bureau chaleureuse",
+      "CARD_7": "Châtaignes grillées",
+      "CARD_8": "Coussin à carreaux",
+      "CARD_9": "Chalet de la bonne nuit"
+    }
+  },
+  "ALBUM_9": {
+    "name": "Festin de Thanksgiving",
+    "cards": {
+      "CARD_1": "Chandelier de table long",
+      "CARD_2": "Dinde rôtie",
+      "CARD_3": "Sauce aux canneberges",
+      "CARD_4": "Bol de purée de pommes de terre",
+      "CARD_5": "Guirlande de maïs",
+      "CARD_6": "Carte de remerciement",
+      "CARD_7": "Assiette copieuse",
+      "CARD_8": "Toast de bénédictions",
+      "CARD_9": "Moment de retrouvailles"
+    }
+  },
+  "ALBUM_10": {
+    "name": "Sortie d'automne dans la ville royale",
+    "cards": {
+      "CARD_1": "Guirlande de la porte de la ville",
+      "CARD_2": "Carrosse royal",
+      "CARD_3": "Feuilles mortes près de la fontaine",
+      "CARD_4": "Fanfare de la place",
+      "CARD_5": "Carte de sortie d'automne",
+      "CARD_6": "Vue des remparts de la ville",
+      "CARD_7": "Couloir du jardin",
+      "CARD_8": "Pâtisseries du Palais",
+      "CARD_9": "Souvenir de la Cité Royale"
+    }
+  },
+  "ALBUM_11": {
+    "name": "L'hiver arrive tôt",
+    "cards": {
+      "CARD_1": "Première brise froide",
+      "CARD_2": "Toit enneigé",
+      "CARD_3": "Écharpe épaisse",
+      "CARD_4": "Gants en coton",
+      "CARD_5": "Motifs de fenêtres givrées",
+      "CARD_6": "Tasse chauffe-mains",
+      "CARD_7": "Matinée d'hiver",
+      "CARD_8": "Ciel gris-bleu",
+      "CARD_9": "Salutations de début d'hiver"
+    }
+  },
+  "ALBUM_12": {
+    "name": "Les premières neiges",
+    "cards": {
+      "CARD_1": "Premier flocon de neige",
+      "CARD_2": "Neige sur tes épaules",
+      "CARD_3": "Toiture blanche",
+      "CARD_4": "Empreintes dans la neige",
+      "CARD_5": "Boîte aux lettres givrée",
+      "CARD_6": "Petite pelle à neige",
+      "CARD_7": "Bouton de bonhomme de neige",
+      "CARD_8": "Coin de rue tranquille",
+      "CARD_9": "Monde blanc argenté"
+    }
+  },
+  "ALBUM_13": {
+    "name": "Terre merveilleuse du lac glacé",
+    "cards": {
+      "CARD_1": "Reflet sur la glace",
+      "CARD_2": "Patins à glace",
+      "CARD_3": "Pont de bois au bord du lac",
+      "CARD_4": "Cristal de glace bleu",
+      "CARD_5": "Seau à pêche sur glace",
+      "CARD_6": "Clôture enneigée",
+      "CARD_7": "Pirouette sur la glace",
+      "CARD_8": "Kiosque à thé chaud",
+      "CARD_9": "Rires sur le lac gelé"
+    }
+  },
+  "ALBUM_14": {
+    "name": "Atelier d'hiver",
+    "cards": {
+      "CARD_1": "Jouet en bois",
+      "CARD_2": "Rouleau de papier coloré",
+      "CARD_3": "Nœud en ruban",
+      "CARD_4": "Ornement de cloche",
+      "CARD_5": "Bougie artisanale",
+      "CARD_6": "Flocon de neige en papier",
+      "CARD_7": "Liste de cadeaux",
+      "CARD_8": "Éclairage d'atelier",
+      "CARD_9": "Coffret cadeau mystérieux"
+    }
+  },
+  "ALBUM_15": {
+    "name": "Prélude au Festival des étoiles",
+    "cards": {
+      "CARD_1": "Guirlande lumineuse étoilée",
+      "CARD_2": "Couronne de sapin",
+      "CARD_3": "Clochette dorée",
+      "CARD_4": "Bas de velours rouge",
+      "CARD_5": "Bougie à vœux",
+      "CARD_6": "Cloches de la nuit enneigée",
+      "CARD_7": "Vitrine de Noël",
+      "CARD_8": "Feux d'artifice de nuit d'hiver",
+      "CARD_9": "Prélude au clair de lune"
+    }
+  }
+}
