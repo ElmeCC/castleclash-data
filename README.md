@@ -19,9 +19,10 @@ PR here doesn't go live until the app is redeployed with the updated submodule p
 
 ```
 album/
-  album_data.json          — current season: 15 albums × 9 cards, {name, star}
-  album_data_season_1.json — previous season, kept for reference
-  album_data_fr.json       — French translation of album/card names, keyed off the English names
+  structure.json            — the shape: 15 albums × 9 cards, emoji + star rating, no names
+  en.json                    — English album/card names, positionally keyed
+  fr.json                    — French album/card names, same keys, community-filled
+  album_data_season_1.json  — previous season's old-format data, kept for reference
 atkspeed/
   buffs.json                — every ATK Speed talent/insignia/pet/etc. level→% table
   images/                   — buff & pet icons referenced by buffs.json / the app
@@ -30,53 +31,56 @@ tutorials/
   <tutorial-id>/            — one folder per tutorial: data.json + its own images
 ```
 
-### `album/album_data.json`
+Names and structure are split on purpose: **structure.json never needs translating**, and
+**en.json / fr.json never need to worry about star ratings or album order** — a translator
+only ever touches the language files.
 
-One JSON object keyed by **album name** (the key IS the display name shown in the app), each
-holding an array of exactly 9 cards:
+### `album/structure.json`
+
+One object keyed `ALBUM_1` … `ALBUM_15` (in in-game collection order), each with an `emoji`
+and its 9 cards in order, `CARD_1` … `CARD_9`, each with a `star` rating (1–5):
 
 ```json
 {
-  "An Autumn Adventure": [
-    { "name": "Letter from the Autumn Wind", "star": 1 },
-    ...
-  ]
+  "ALBUM_1": {
+    "emoji": "🍂",
+    "cards": [
+      { "id": "CARD_1", "star": 1 },
+      ...
+    ]
+  }
 }
 ```
 
-- `star` is 1–5, matching the in-game rarity shown on the card.
-- Keep the **order of albums** and **order of cards within an album** matching the in-game
-  collection screen — the app pairs card `N` in album `M` positionally with slot `M-N`.
-- When the game does a seasonal album swap, copy the current file to
-  `album_data_season_<N>.json` first, then overwrite `album_data.json` with the new season.
+Edit this file for a seasonal album swap (order/count/star changes) or a rarity correction —
+never for a name change, that belongs in `en.json`.
 
-### `album/album_data_fr.json`
+### `album/en.json` and `album/fr.json`
 
-The French translation, **keyed off the English names** in `album_data.json` (not by
-position) — so a missing or not-yet-translated entry safely falls back to English instead of
-showing the wrong card. Two top-level sections:
+Same shape, one per language, keyed by the same `ALBUM_N` / `CARD_N` positional IDs as
+`structure.json` — **not** by name, so renaming a card doesn't break its translation:
 
 ```json
 {
-  "albums": {
-    "An Autumn Adventure": "Une Aventure Automnale"
-  },
-  "cards": {
-    "An Autumn Adventure": {
-      "Letter from the Autumn Wind": "Lettre du vent d'automne"
+  "ALBUM_1": {
+    "name": "An Autumn Adventure",
+    "cards": {
+      "CARD_1": "Letter from the Autumn Wind",
+      ...
     }
   }
 }
 ```
 
-- `albums.<English album name>` → the French album name.
-- `cards.<English album name>.<English card name>` → the French card name.
+- To translate: open `fr.json`, find the same `ALBUM_N` / `CARD_N` key you see filled in
+  `en.json`, and fill in the matching French value.
 - Leave a value as `""` (empty string) if you don't have a translation yet — the app falls
-  back to the English name automatically. Partial PRs (a handful of albums, not all 135
-  cards) are welcome.
-- If `album_data.json` changes (new season, renamed card), the **English key must match
-  exactly** for the translation to be picked up — a stale key just falls back to English
-  rather than breaking anything.
+  back to English automatically. Partial PRs (a handful of albums, not all 135 cards) are
+  welcome.
+- When a seasonal swap changes `structure.json`'s card count or order, `en.json` gets updated
+  to match (new English names at those positions) — `fr.json` entries at those same
+  positions become stale and should be re-translated, but nothing breaks in the meantime
+  since a stale/missing translation just falls back to English.
 
 ### `atkspeed/buffs.json`
 
