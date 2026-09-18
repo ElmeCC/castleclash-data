@@ -50,7 +50,9 @@ Block types:
 - `heading` — a section title inside the tutorial.
 - `text` — a paragraph.
 - `image` — `src` is a filename in the same folder as `data.json` (not a full path);
-  `caption` is optional.
+  `caption` is optional but also doubles as the image's screen-reader text — please add
+  one describing what the screenshot shows (e.g. "The Community tab with two trade
+  matches highlighted") rather than leaving it out.
 
 Blocks render top to bottom in the order you list them — that's the whole layout.
 
